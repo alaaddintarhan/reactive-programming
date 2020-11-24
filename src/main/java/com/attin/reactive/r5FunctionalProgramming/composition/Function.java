@@ -3,6 +3,8 @@ package com.attin.reactive.r5FunctionalProgramming.composition;
 @FunctionalInterface
 public interface Function<T, R> {
 
+
+
     R apply(T t);
 
 

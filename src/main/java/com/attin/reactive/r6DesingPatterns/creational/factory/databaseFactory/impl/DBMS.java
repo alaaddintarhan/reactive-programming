@@ -1,6 +1,7 @@
 package com.attin.reactive.r6DesingPatterns.creational.factory.databaseFactory.impl;
 
-import com.attin.reactive.r10DesignPatterns.creational.factory.Database;
+
+import com.attin.reactive.r6DesingPatterns.creational.factory.databaseFactory.Database;
 
 public class DBMS implements Database {
 

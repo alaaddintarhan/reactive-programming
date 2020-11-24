@@ -1,6 +1,5 @@
 package com.attin.reactive.r6DesingPatterns.behavioral.strategy;
 
-import com.attin.reactive.r10DesignPatterns.behavioral.strategy.Strategy;
 
 public class CompressToRar implements Strategy {
 
