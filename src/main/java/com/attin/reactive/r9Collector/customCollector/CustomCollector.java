@@ -23,8 +23,8 @@ public class CustomCollector {
  }
  */
         List<Integer> numbers = List.of(2, 6, 8, 9, 0, 1, 52, 5, 61, 8, 9, 96, 0, 18, 23);
-
-        //Collector toList = Collector.of(supplier,accumulator,combiner,characteristic);
+        //Collector toLi
+        // st = Collector.of(supplier,accumulator,combiner,characteristic);
 
         //supplier, accumulator, combiner, cs
         Collector<Integer, List<Integer>, List<Integer>> toList = Collector.of(

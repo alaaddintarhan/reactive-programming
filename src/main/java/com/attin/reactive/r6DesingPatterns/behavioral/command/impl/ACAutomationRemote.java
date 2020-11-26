@@ -1,7 +1,7 @@
-package com.attin.reactive.r6DesingPatterns.behavioral.commond.impl;
+package com.attin.reactive.r6DesingPatterns.behavioral.command.impl;
 
 
-import com.attin.reactive.r6DesingPatterns.behavioral.commond.ICommandAC;
+import com.attin.reactive.r6DesingPatterns.behavioral.command.ICommandAC;
 
 public class ACAutomationRemote {
 

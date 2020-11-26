@@ -1,9 +1,9 @@
-package com.attin.reactive.r6DesingPatterns.behavioral.commond;
+package com.attin.reactive.r6DesingPatterns.behavioral.command;
 
 
-import com.attin.reactive.r6DesingPatterns.behavioral.commond.impl.ACAutomationRemote;
-import com.attin.reactive.r6DesingPatterns.behavioral.commond.impl.IncTempCommand;
-import com.attin.reactive.r6DesingPatterns.behavioral.commond.impl.StartACCommand;
+import com.attin.reactive.r6DesingPatterns.behavioral.command.impl.ACAutomationRemote;
+import com.attin.reactive.r6DesingPatterns.behavioral.command.impl.IncTempCommand;
+import com.attin.reactive.r6DesingPatterns.behavioral.command.impl.StartACCommand;
 
 public class CommandDesignPattern {
 

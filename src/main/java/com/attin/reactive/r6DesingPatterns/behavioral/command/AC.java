@@ -1,4 +1,4 @@
-package com.attin.reactive.r6DesingPatterns.behavioral.commond;
+package com.attin.reactive.r6DesingPatterns.behavioral.command;
 
 public class AC {
 
